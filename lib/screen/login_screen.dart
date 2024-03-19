@@ -41,7 +41,7 @@ class LoginScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text('Does not have account?'),
-                CategoryTextButton(text: 'Sign in',font: 18,)
+                CategoryTextButton(text: 'Sign in',font: 18git init,)
               ],
             )
           ],
